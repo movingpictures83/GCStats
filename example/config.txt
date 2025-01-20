@@ -1,0 +1,2 @@
+Prefix plugins/GCStats/example/
+Plugin GCStats inputfile parameters.txt outputfile read_GC.txt

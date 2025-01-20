@@ -1,0 +1,2 @@
+fastqdir	.
+contigs	contig_names.txt
